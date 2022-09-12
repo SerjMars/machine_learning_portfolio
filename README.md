@@ -1,2 +1,1 @@
-# learning
-Data analysis learning stuff
+Machine Learning and Deep Learning training and projects
